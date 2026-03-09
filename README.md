@@ -13,4 +13,4 @@ Welcome to the **Prism Infoways** official guide for essential Cyber Security be
 ---
 **Need expert Cyber Security solutions or IT consulting for your business?**
 🌐 Visit our official website: [prisminfoways.com](https://prisminfoways.com)
-📧 Contact our team: [contact@prisminfoways.com](https://www.prisminfoways.com/contact))
+📧 Contact our team: [contact@prisminfoways.com](https://www.prisminfoways.com/contact)
